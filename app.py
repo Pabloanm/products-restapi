@@ -18,8 +18,13 @@ def getProducts():
 
 @app.route('/products/<string:product_name>')
 def getProduct(product_name):
-    print(product_name) #print in terminal
-    return 'received' #print in browser
+    #print(product_name) #print in terminal
+    productsFound = [product for product in products if product['name'] == product_name]
+    #return 'received' #print in browser
+    if (len(productsFound)>0):
+        return jsonify({"product": productsFound[0]}) #return Found value 
+    return jsonify({"message": "Product not found"}) 
+
 
 
 if __name__ == '__main__':
