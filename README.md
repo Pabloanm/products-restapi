@@ -1,4 +1,4 @@
-# This is a simple example on how REST API works
+# Simple example definition - REST API -
 Methods: GET, POST; PUT, PATCH, DELETE
 
 # Test 
