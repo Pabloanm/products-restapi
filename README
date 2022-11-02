@@ -1,0 +1,4 @@
+# This is a simple REST API 
+Methods: GET, POST; PUT, PATCH, DELETE
+
+Use Insomnia or Postman to test endpoints
