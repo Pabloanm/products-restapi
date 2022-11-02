@@ -1,5 +1,5 @@
 '''
-Framework Flask 
+Flask, simple REST API 
 Use Insomnia or Postman to test endpoints
 Methods: GET, POST; PUT, PATCH, DELETE
 '''
