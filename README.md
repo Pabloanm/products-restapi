@@ -2,7 +2,7 @@
 Methods: GET, POST; PUT, PATCH, DELETE
 
 # Test 
-Use '''Insomnia''' or '''Postman''' for testing endpoints
+Use ''Insomnia'' or ''Postman'' for testing endpoints
 
 # Endpoints CRUD
 - Get http://127.0.0.1:4000/products
