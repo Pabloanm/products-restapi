@@ -1,4 +1,4 @@
-# Simple example definition - REST API -
+# Simple definition - REST API -
 Methods: GET, POST; PUT, PATCH, DELETE
 
 # Test 
