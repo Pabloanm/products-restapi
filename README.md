@@ -1,5 +1,5 @@
 # Simple definition - REST API -
-Methods: GET, POST; PUT, PATCH, DELETE
+Methods: GET, POST; PUT, DELETE
 
 # Test 
 Use ''Insomnia'' or ''Postman'' for testing endpoints
